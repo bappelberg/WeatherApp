@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+venv/
+__pycache__/
+requirements.txt
